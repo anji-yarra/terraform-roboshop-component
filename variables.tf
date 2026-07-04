@@ -21,3 +21,7 @@ variable "zone_id" {
 variable "domain_name" {
     default = "anjidevops.online"
 }
+
+variable "rule_priority" {
+    #type = string
+}
